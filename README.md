@@ -42,7 +42,7 @@ Based on the Macchiato flavor of [Catppuccin](https://github.com/catppuccin/catp
 
 ![macchiato QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/macchiatoQR.jpeg)
 
-[mona-cat://4446](mona-cat://4446)
+mona-cat://4446
 
 [Find it on Mastodon](https://social.lol/@maique/109900046264790326)
 
@@ -61,6 +61,8 @@ mona-cat://b29a
 #### How to Install
 
 You can read the QR Codes if you're reading this on your computer, or save them to your Camera Roll and let iOS do the rest, if you're on your phone.
+
+Another way to do it is copying the mona-cat link you'll find on the theme's description, and paste that into Safari. It should prompt you to open Mona, and the theme will be installed.
 
 #### Notes
 
