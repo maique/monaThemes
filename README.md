@@ -1,10 +1,10 @@
 # monaThemes
 
-Some themes I've created for the [Mona](https://mastodon.social/@MonaApp) Mastodon client.
-
 ![three themes on a combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/hero.png)
 
-Mona is a great Mastodon client. Full featured, with endless tweaking possibilities. One of the coolest features, as far as I'm concerned, is the theme section. You can easily create new themes, or import ones made by someone else. It's a ton of fun.
+[Mona](https://mastodon.social/@MonaApp) is a great Mastodon client. 
+
+Full featured, with endless tweaking possibilities. One of the coolest features, as far as I'm concerned, is the theme section. You can easily create new themes, or import ones made by someone else. It's a ton of fun.
 
 So, I went ahead and made a few.
 
@@ -24,7 +24,13 @@ Inspired by [Dracula](https://draculatheme.com), again, here's Vlad.
 
 ### Catppuccin Macchiato
 
+![macchiato combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/macchiatoHero.png)
+
 Based on the Macchiato flavor of [Catppuccin](https://github.com/catppuccin/catppuccin), this one quickly became my favorite, and it's now what I'm using most of the time. 
+
+![macchiato QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/macchiatoQR.jpeg)
+
+[mona-cat://4446](mona-cat://4446)
 
 [Find it on Mastodon](https://social.lol/@maique/109900046264790326)
 
