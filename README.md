@@ -2,7 +2,7 @@
 
 Some themes I've created for the [Mona](https://mastodon.social/@MonaApp) Mastodon client.
 
-![three themes on a combo](https://maique.eu/uploads/2023/decef7ea21.png)
+![three themes on a combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/hero.png)
 
 Mona is a great Mastodon client. Full featured, with endless tweaking possibilities. One of the coolest features, as far as I'm concerned, is the theme section. You can easily create new themes, or import ones made by someone else. It's a ton of fun.
 
