@@ -34,7 +34,7 @@ mona-cat://c8e4
 
 [Find it on Mastodon](https://social.lol/@maique/109893569826148662)
 
-## Catppuccin Macchiato
+## macchiato
 
 ![macchiato combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/macchiatoHero.png)
 
