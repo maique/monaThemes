@@ -10,7 +10,7 @@ So, I went ahead and made a few.
 
 Note: none of the themes follow the original theme's guidelines. I just threw the colors where I thought they looked good. 
 
-### maiqueNokai
+## maiqueNokai
 
 ![maiqueNokai combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/maiqueNokaiHero.png)
 
@@ -22,7 +22,7 @@ mona-cat://5737
 
 [Find it on Mastodon](https://social.lol/@maique/109859999860041737)
 
-### vlad
+## vlad
 
 ![vlad combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/vladHero.png)
 
@@ -34,7 +34,7 @@ mona-cat://c8e4
 
 [Find it on Mastodon](https://social.lol/@maique/109893569826148662)
 
-### Catppuccin Macchiato
+## Catppuccin Macchiato
 
 ![macchiato combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/macchiatoHero.png)
 
@@ -46,7 +46,7 @@ Based on the Macchiato flavor of [Catppuccin](https://github.com/catppuccin/catp
 
 [Find it on Mastodon](https://social.lol/@maique/109900046264790326)
 
-### Gruvbox
+## Gruvbox
 
 ![gruvbox combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/gruvboxHero.png)
 
