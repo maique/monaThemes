@@ -58,7 +58,7 @@ mona-cat://b29a
 
 [Find it on Mastodon](https://social.lol/@maique/109908553577341850)
 
-## Amber
+## amber
 
 ![amber combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/amberHero.png)
 
@@ -70,13 +70,25 @@ mona-cat://5ff5
 
 [Find it on Mastodon](https://social.lol/@maique/109911283368194845)
 
-#### How to Install
+## akihabara
+
+![akihabara combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/akihabaraHero.png)
+
+While looking for the next theme to port, I came across one called [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Being a fan of Japan, and Tokyo, how could I miss this one? And, even better, it's a great looking one.
+
+![akihabara QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/akihabaraQR.jpeg)
+
+mona-cat://df36
+
+[Find it on Mastodon](https://social.lol/@maique/109915715048922536)
+
+## How to Install
 
 You can read the QR Codes if you're reading this on your computer, or save them to your Camera Roll and let iOS do the rest, if you're on your phone.
 
 Another way to do it is copying the mona-cat link you'll find on the theme's description, and paste that into Safari. It should prompt you to open Mona, and the theme will be installed.
 
-#### Notes
+## Notes
 
 A lot more great themes by other authors can be found on [this thread on Mastodon](https://mastodon.social/@MonaApp/109859984571889210). I'm sure you'll find something that you like, plenty of cool ones over there. 
 
