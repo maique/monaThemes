@@ -58,6 +58,18 @@ mona-cat://b29a
 
 [Find it on Mastodon](https://social.lol/@maique/109908553577341850)
 
+## Amber
+
+![amber combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/amberHero.png)
+
+Amber is the second retro theme on the collection, an homage to the old CRT monitors. Probably too niche, this is the theme no one asked for. 
+
+![Amber QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/gruvboxQR.jpeg)
+
+mona-cat://5ff5
+
+[Find it on Mastodon](https://social.lol/@maique/109911283368194845)
+
 #### How to Install
 
 You can read the QR Codes if you're reading this on your computer, or save them to your Camera Roll and let iOS do the rest, if you're on your phone.
