@@ -46,7 +46,7 @@ mona-cat://4446
 
 [Find it on Mastodon](https://social.lol/@maique/109900046264790326)
 
-## Gruvbox
+## gruvbox
 
 ![gruvbox combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/gruvboxHero.png)
 
