@@ -82,6 +82,18 @@ mona-cat://df36
 
 [Find it on Mastodon](https://social.lol/@maique/109915715048922536)
 
+## wineCountry
+
+![wineCountry combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/wineCountryHero.png)
+
+While looking for the next theme to port, I came across one called [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Being a fan of Japan, and Tokyo, how could I miss this one? And, even better, it's a great looking one.
+
+![wineCountry QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/wineCountryQR.jpeg)
+
+mona-cat://8cf6
+
+[Find it on Mastodon](https://social.lol/@maique/109971865707121505)
+
 ## How to Install
 
 You can read the QR Codes if you're reading this on your computer, or save them to your Camera Roll and let iOS do the rest, if you're on your phone.
