@@ -86,7 +86,7 @@ mona-cat://df36
 
 ![wineCountry combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/wineCountryHero.png)
 
-While looking for the next theme to port, I came across one called [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme). Being a fan of Japan, and Tokyo, how could I miss this one? And, even better, it's a great looking one.
+Based on the lovely [Rosé Pine](https://rosepinetheme.com/palette) color scheme.
 
 ![wineCountry QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/wineCountryQR.jpeg)
 
