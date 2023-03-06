@@ -78,7 +78,7 @@ While looking for the next theme to port, I came across one called [Tokyo Night]
 
 ![akihabara QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/akihabaraQR.jpeg)
 
-mona-cat://df36
+mona-cat://76e2
 
 [Find it on Mastodon](https://social.lol/@maique/109915715048922536)
 
