@@ -94,7 +94,7 @@ mona-cat://8cf6
 
 [Find it on Mastodon](https://social.lol/@maique/109971865707121505)
 
-## galao
+## galão
 
 ![galao combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/galaoHero.png)
 
