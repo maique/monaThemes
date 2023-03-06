@@ -94,6 +94,18 @@ mona-cat://8cf6
 
 [Find it on Mastodon](https://social.lol/@maique/109971865707121505)
 
+## galao
+
+![galao combo](https://raw.githubusercontent.com/maique/monaThemes/main/images/galaoHero.png)
+
+My first (and not a lot of those will follow) light theme, is based on the Latte variation of [Catppuccin](https://github.com/catppuccin/catppuccin). I'm calling it galão, the [Portuguese version of a latte](https://coffeeaffection.com/portuguese-coffee-recipe/). Someone asked for it, so I decided to give it a go. Not entirely sure this is a good one.
+
+![galao QR](https://raw.githubusercontent.com/maique/monaThemes/main/images/galaoQR.jpeg)
+
+mona-cat://45d6
+
+[Find it on Mastodon](https://social.lol/@maique/109978807811264953)
+
 ## How to Install
 
 You can read the QR Codes if you're reading this on your computer, or save them to your Camera Roll and let iOS do the rest, if you're on your phone.
